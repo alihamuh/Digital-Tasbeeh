@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:state_pressed="true" >
+        <layer-list>
+            <item
+                android:bottom="0dp"
+                android:drawable="@android:drawable/dialog_holo_dark_frame"
+                android:left="0dp"
+                android:right="0dp"
+                android:top="0dp">
+
+            </item>
+
+            <item
+                android:bottom="0dp"
+                android:left="0dp"
+                android:right="0dp"
+                android:top="0dp" android:drawable="@drawable/button_pressed">
+                <!--whatever you want in the background, here i preferred solid white -->
+
+            </item>
+        </layer-list>
+
+    </item>
+    <item
+        android:state_focused="true" >
+        <layer-list>
+            <item
+                android:bottom="0dp"
+                android:drawable="@android:drawable/dialog_holo_dark_frame"
+                android:left="0dp"
+                android:right="0dp"
+                android:top="0dp">
+
+            </item>
+
+            <item
+                android:bottom="0dp"
+                android:left="0dp"
+                android:right="0dp"
+                android:top="0dp" android:drawable="@drawable/button_pressed">
+                <!--whatever you want in the background, here i preferred solid white -->
+
+            </item>
+        </layer-list>
+
+    </item>
+    <item >
+        <layer-list>
+            <item
+                android:bottom="0dp"
+                android:drawable="@android:drawable/dialog_holo_dark_frame"
+                android:left="0dp"
+                android:right="0dp"
+                android:top="0dp">
+
+            </item>
+
+            <item
+                android:bottom="0dp"
+                android:left="0dp"
+                android:right="0dp"
+                android:top="0dp" android:drawable="@drawable/button_normal">
+                <!--whatever you want in the background, here i preferred solid white -->
+
+            </item>
+        </layer-list>
+    </item>
+</selector>

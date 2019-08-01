@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Main Page">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:id="@+id/nav_mainStartZikr" android:title="Start Zikr" />
+                <item android:id="@+id/nav_mainSelectZikr" android:title="Select Zikr" />
+                <item android:id="@+id/nav_mainSettings" android:title="Settings" />
+                <item android:id="@+id/nav_mainStats" android:title="Statistics" />
+            </group>
+        </menu>
+    </item>
+    <item android:title="ABOUT US">
+        <menu>
+            <item android:id="@+id/nav_mainRate" android:title="RATE US "  android:icon="@drawable/ic_star_black_24dp"/>
+            <item android:id="@+id/nav_mainShare" android:title="SHARE" android:icon="@drawable/ic_share"/>
+            <item android:id="@+id/nav_mainDonate" android:title="DONATE"  android:icon="@drawable/ic_donate"/>
+            <item android:id="@+id/nav_mainAbout" android:title="ABOUT"  android:icon="@drawable/ic_info_black_24dp"/>
+        </menu>
+    </item>
+</menu>

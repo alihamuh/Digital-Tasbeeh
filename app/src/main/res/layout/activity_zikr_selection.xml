@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:actionBarNavMode="list"
+
+    tools:context=".Activity.ZikrSelection">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:id="@+id/activity_selection"
+        android:background="?mainBackground">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <!--android:layout_marginTop="20dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginBottom="20dp"
+        -->
+
+        <ListView
+            android:id="@+id/ZikrListView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:divider="@null"
+            >
+
+        </ListView>
+
+        <!--android.support.design.button.MaterialButton
+            android:layout_width="wrap_content"
+            android:id="@+id/stats_btn"
+            android:layout_margin="@dimen/fab_margin"
+            android:layout_height="wrap_content"
+            app:icon="@drawable/ic_begin"
+            app:cornerRadius="20dp"
+            android:layout_gravity="bottom|end"
+            android:visibility="gone"/-->
+    </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

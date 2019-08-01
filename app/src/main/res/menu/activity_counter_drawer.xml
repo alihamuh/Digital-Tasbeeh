@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Asma Ul Husna">
+        <menu>
+            <item android:id="@+id/nav_asmaUlHusna" android:title="@string/Zikr_114" />
+        </menu>
+    </item>
+    <item android:title="Select Zikr">
+        <menu>
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_counterAlhumd" android:title="@string/Zikr_1" />
+        <item android:id="@+id/nav_counterTakbeer" android:title="@string/Zikr_2" />
+        <item android:id="@+id/nav_counterAllah" android:title="@string/Zikr_3" />
+        <item android:id="@+id/nav_counterAstaghfar" android:title="@string/Zikr_4" />
+        <item android:id="@+id/nav_counterAyat" android:title="@string/Zikr_5" />
+        <item android:id="@+id/nav_counterDurood" android:title="@string/Zikr_6" />
+        <item android:id="@+id/nav_counterHasbi" android:title="@string/Zikr_7" />
+        <item android:id="@+id/nav_counterTamjeed" android:title="@string/Zikr_8" />
+        <item android:id="@+id/nav_counterTauheed" android:title="@string/Zikr_9" />
+        <item android:id="@+id/nav_counterKalma" android:title="@string/Zikr_10" />
+        <item android:id="@+id/nav_counterLahawla" android:title="@string/Zikr_11" />
+        <item android:id="@+id/nav_counterLailaha" android:title="@string/Zikr_12" />
+        <item android:id="@+id/nav_counterWabihamdi" android:title="@string/Zikr_13" />
+        <item android:id="@+id/nav_counterSubhan" android:title="@string/Zikr_14" />
+    </group>
+        </menu>
+    </item>
+    <item android:title="ABOUT US">
+        <menu>
+            <item android:id="@+id/nav_counterRate" android:title="RATE US"  android:icon="@drawable/ic_star_black_24dp"/>
+            <item android:id="@+id/nav_counterShare" android:title="SHARE" android:icon="@drawable/ic_share"/>
+            <item android:id="@+id/nav_counterDonate" android:title="DONATE"  android:icon="@drawable/ic_donate"/>
+            <item android:id="@+id/nav_counterAbout" android:title="ABOUT" android:icon="@drawable/ic_info_black_24dp"/>
+        </menu>
+    </item>
+</menu>

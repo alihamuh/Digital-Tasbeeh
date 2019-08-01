@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@+id/fragment_counter"
+    android:background="?mainBackground"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:showIn="@layout/content_test"
+    tools:context=".Activity.testActivity2"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/tasbeeh_counter">
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="bottom"
+            android:layout_weight="0.6">
+
+
+            <com.alihamuh.ali.tasbeeh.Text_Formatter.FontText
+                android:textSize="30sp"
+                android:textColor="@android:color/background_light"
+                android:id="@+id/fragment_type"
+                android:padding="5dp"
+                android:textAlignment="center"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="15dp"
+                android:layout_marginBottom="35dp"
+                android:layout_width="fill_parent"
+                custom:typefaceAsset="fonts/muhammadi.ttf"
+                android:layout_height="150dp"
+                android:text="اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍكَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيم إِنَّكَ حَمِيدٌ مَجِيدٌاللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ، وَعَلَى آلِ مُحَمَّدٍكَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ .إِنَّكَ حَمِيدٌ مَجِيدٌ"/>
+
+
+        </LinearLayout>
+
+
+
+        <LinearLayout
+            android:gravity="center"
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1">
+
+            <com.alihamuh.ali.tasbeeh.Text_Formatter.FontText
+                android:textSize="40dp"
+                android:textColor="@android:color/background_dark"
+                android:id="@+id/fragment_tasbee"
+                android:textAlignment="center"
+                android:background="@android:color/background_light"
+                android:layout_width="300dp"
+                android:layout_height="50dp"
+                android:fontFamily="serif-monospace"
+                android:text="0" />
+        </LinearLayout>
+
+
+
+
+
+
+        <LinearLayout
+            android:gravity="center"
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.8">
+            <Button
+                android:id="@+id/fragment_count"
+                android:background="@drawable/counter_button"
+                android:layout_width="130dp"
+                android:layout_height="130dp" />
+        </LinearLayout>
+
+
+
+
+        <!--LinearLayout
+            android:gravity="center"
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0">
+            <Button
+                android:id="@+id/button3"
+                android:background="@drawable/reset_icon"
+                android:layout_width="50.0dip"
+                android:layout_height="50.0dip"
+                android:layout_alignTop="@+id/button2"
+                android:layout_alignRight="@+id/count"
+                android:onClick="reset" />
+        </LinearLayout-->
+
+
+
+        <LinearLayout
+            android:gravity="center|top"
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1">
+            <LinearLayout
+                android:gravity="bottom"
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.0">
+
+
+
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+
+
+    </LinearLayout>
+</RelativeLayout>

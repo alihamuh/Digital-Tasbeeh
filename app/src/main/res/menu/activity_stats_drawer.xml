@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+         <item android:title="TOTAL">
+             <menu>
+            <item android:id="@+id/nav_barGraph" android:title="Total Zikr Stats" />
+             </menu>
+         </item>
+    </group>
+    <group android:checkableBehavior="single" >
+        <item android:title="WEEKLY">
+             <menu>
+        <item android:id="@+id/nav_alhumd" android:title="@string/Zikr_1" />
+        <item android:id="@+id/nav_takbeer" android:title="@string/Zikr_2" />
+        <item android:id="@+id/nav_allah" android:title="@string/Zikr_3" />
+        <item android:id="@+id/nav_astaghfar" android:title="@string/Zikr_4" />
+        <item android:id="@+id/nav_ayat" android:title="@string/Zikr_5" />
+        <item android:id="@+id/nav_durood" android:title="@string/Zikr_6" />
+        <item android:id="@+id/nav_hasbi" android:title="@string/Zikr_7" />
+        <item android:id="@+id/nav_tamjeed" android:title="@string/Zikr_8" />
+        <item android:id="@+id/nav_tauheed" android:title="@string/Zikr_9" />
+        <item android:id="@+id/nav_kalma" android:title="@string/Zikr_10" />
+        <item android:id="@+id/nav_lahawla" android:title="@string/Zikr_11" />
+        <item android:id="@+id/nav_lailaha" android:title="@string/Zikr_12" />
+        <item android:id="@+id/nav_wabihamdi" android:title="@string/Zikr_13" />
+        <item android:id="@+id/nav_subhan" android:title="@string/Zikr_14" />
+             </menu>
+        </item>
+    </group>
+    <item android:title="ABOUT US">
+        <menu>
+            <item android:id="@+id/nav_rate" android:title="RATE US"  android:icon="@drawable/ic_star_black_24dp"/>
+            <item android:id="@+id/nav_Share" android:title="SHARE" android:icon="@drawable/ic_share"/>
+        </menu>
+    </item>
+</menu>

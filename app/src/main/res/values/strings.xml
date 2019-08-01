@@ -1,0 +1,387 @@
+<resources>
+    <string name="app_name">Tasbeeh</string>
+    <string name="title_activity_stats_activity">stats_activity</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+
+    <string name="Zikr_1">الحمدللہ</string>
+    <string name="Zikr_2">تکبیر</string>
+    <string name="Zikr_3">تسبیح</string>
+    <string name="Zikr_4">استغفار</string>
+    <string name="Zikr_5">آیت الکرسی</string>
+    <string name="Zikr_6">درود ابراھیم</string>
+    <string name="Zikr_7">حسبی اللَّهُ</string>
+    <string name="Zikr_8">کلمہ تمجید</string>
+    <string name="Zikr_9">کلمہ توحید</string>
+    <string name="Zikr_10">کلمہ طیبہ</string>
+    <string name="Zikr_11">لا حول</string>
+    <string name="Zikr_12">لاالہ</string>
+    <string name="Zikr_13">سبحان الل وبحمدہ</string>
+    <string name="Zikr_14">اللہ</string>
+    <string name="Zikr_15">الرَّحْمَنُ</string>
+    <string name="Zikr_16">الرَّحِيمُ</string>
+    <string name="Zikr_17">الْمَلِكُ</string>
+    <string name="Zikr_18">الْقُدُّوسُ</string>
+    <string name="Zikr_19">السَّلاَمُ</string>
+    <string name="Zikr_20">الْمُؤْمِنُ</string>
+    <string name="Zikr_21">الْمُهَيْمِنُ</string>
+    <string name="Zikr_22">الْعَزِيزُ</string>
+    <string name="Zikr_23">الْجَبَّارُ</string>
+    <string name="Zikr_24">الْمُتَكَبِّرُ</string>
+    <string name="Zikr_25">الْخَالِقُ</string>
+    <string name="Zikr_26">الْبَارِئُ</string>
+    <string name="Zikr_27">الْمُصَوِّرُ</string>
+    <string name="Zikr_28">الْغَفَّارُ</string>
+    <string name="Zikr_29">الْقَهَّارُ</string>
+    <string name="Zikr_30">الْوَهَّابُ</string>
+    <string name="Zikr_31">الرَّزَّاقُ</string>
+    <string name="Zikr_32">الْفَتَّاحُ</string>
+    <string name="Zikr_33">اَلْعَلِيْمُ</string>
+    <string name="Zikr_34">الْقَابِضُ</string>
+    <string name="Zikr_35">الْبَاسِطُ</string>
+    <string name="Zikr_36">الْخَافِضُ</string>
+    <string name="Zikr_37">الرَّافِعُ</string>
+    <string name="Zikr_38">الْمُعِزُّ</string>
+    <string name="Zikr_39">المُذِلُّ</string>
+    <string name="Zikr_40">السَّمِيعُ</string>
+    <string name="Zikr_41">الْبَصِيرُ</string>
+    <string name="Zikr_42">الْحَكَمُ</string>
+    <string name="Zikr_43">الْعَدْلُ</string>
+    <string name="Zikr_44">اللَّطِيفُ</string>
+    <string name="Zikr_45">الْخَبِيرُ</string>
+    <string name="Zikr_46">الْحَلِيمُ</string>
+    <string name="Zikr_47">الْعَظِيمُ</string>
+    <string name="Zikr_48">الْغَفُورُ</string>
+    <string name="Zikr_49">الشَّكُورُ</string>
+    <string name="Zikr_50">الْعَلِيُّ</string>
+    <string name="Zikr_51">الْكَبِيرُ</string>
+    <string name="Zikr_52">الْحَفِيظُ</string>
+    <string name="Zikr_53">المُقيِت</string>
+    <string name="Zikr_54">الْحسِيبُ</string>
+    <string name="Zikr_55">الْجَلِيلُ</string>
+    <string name="Zikr_56">الْكَرِيمُ</string>
+    <string name="Zikr_57">الرَّقِيبُ</string>
+    <string name="Zikr_58">الْمُجِيبُ</string>
+    <string name="Zikr_59">الْوَاسِعُ</string>
+    <string name="Zikr_60">الْحَكِيمُ</string>
+    <string name="Zikr_61">الْوَدُودُ</string>
+    <string name="Zikr_62">الْمَجِيدُ</string>
+    <string name="Zikr_63">الْبَاعِثُ</string>
+    <string name="Zikr_64">الشَّهِيدُ</string>
+    <string name="Zikr_65">الْحَقُّ</string>
+    <string name="Zikr_66">الْوَكِيلُ</string>
+    <string name="Zikr_67">الْقَوِيُّ</string>
+    <string name="Zikr_68">الْمَتِينُ</string>
+    <string name="Zikr_69">الْوَلِيُّ</string>
+    <string name="Zikr_70">الْحَمِيدُ</string>
+    <string name="Zikr_71">الْمُحْصِي</string>
+    <string name="Zikr_72">الْمُبْدِئُ</string>
+    <string name="Zikr_73">الْمُعِيدُ</string>
+    <string name="Zikr_74">الْمُحْيِي</string>
+    <string name="Zikr_75">اَلْمُمِيتُ</string>
+    <string name="Zikr_76">الْحَيُّ</string>
+    <string name="Zikr_77">الْقَيُّومُ</string>
+    <string name="Zikr_78">الْوَاجِدُ</string>
+    <string name="Zikr_79">الْمَاجِدُ</string>
+    <string name="Zikr_80">الْواحِدُ</string>
+    <string name="Zikr_81">اَلاَحَدُ</string>
+    <string name="Zikr_82">الصَّمَدُ</string>
+    <string name="Zikr_83">الْقَادِرُ</string>
+    <string name="Zikr_84">الْمُقْتَدِرُ</string>
+    <string name="Zikr_85">الْمُقَدِّمُ</string>
+    <string name="Zikr_86">الْمُؤَخِّرُ</string>
+    <string name="Zikr_87">الأوَّلُ</string>
+    <string name="Zikr_88">الآخِرُ</string>
+    <string name="Zikr_89">الظَّاهِرُ</string>
+    <string name="Zikr_90">الْبَاطِنُ</string>
+    <string name="Zikr_91">الْوَالِي</string>
+    <string name="Zikr_92">الْمُتَعَالِي</string>
+    <string name="Zikr_93">الْبَرُّ</string>
+    <string name="Zikr_94">التَّوَابُ</string>
+    <string name="Zikr_95">الْمُنْتَقِمُ</string>
+    <string name="Zikr_96">العَفُوُّ</string>
+    <string name="Zikr_97">الرَّؤُوفُُ</string>
+    <string name="Zikr_98">مَالِكُ الْمُلْكِ</string>
+    <string name="Zikr_99">ذُوالْجَلاَلِ وَالإكْرَامِ</string>
+    <string name="Zikr_100">الْمُقْسِطُ</string>
+    <string name="Zikr_101">الْجَامِعُ</string>
+    <string name="Zikr_102">الْغَنِيُّ</string>
+    <string name="Zikr_103">الْمُغْنِي</string>
+    <string name="Zikr_104">اَلْمَانِعُ</string>
+    <string name="Zikr_105">الضَّارَّ</string>
+    <string name="Zikr_106">النَّافِعُ</string>
+    <string name="Zikr_107">النُّورُ</string>
+    <string name="Zikr_108">الْهَادِي</string>
+    <string name="Zikr_109">الْبَدِيعُ</string>
+    <string name="Zikr_110">اَلْبَاقِي</string>
+    <string name="Zikr_111">الْوَارِثُ</string>
+    <string name="Zikr_112">الرَّشِيدُُ</string>
+    <string name="Zikr_113">الصَّبُورُ</string>
+    <string name="Zikr_114">أسماء الحسنى</string>
+
+
+    <string name="english_Zikr_1">Al-humd-Lilah</string>
+    <string name="english_Zikr_2">Takbeer</string>
+    <string name="english_Zikr_3">Allah</string>
+    <string name="english_Zikr_4">Astaghfar</string>
+    <string name="english_Zikr_5">Ayat-ul-Kursi</string>
+    <string name="english_Zikr_6">Durood</string>
+    <string name="english_Zikr_7">Hasbi-Allah</string>
+    <string name="english_Zikr_8">Tamjeed</string>
+    <string name="english_Zikr_9">Tauheed</string>
+    <string name="english_Zikr_10">Kalma-Tayyiba</string>
+    <string name="english_Zikr_11">Lahawla-Wala</string>
+    <string name="english_Zikr_12">La-ilaha-il-Allah</string>
+    <string name="english_Zikr_13">SubhanAllah-Wabihamdi</string>
+    <string name="english_Zikr_14">Tasbeeh</string>
+    <string name="english_Zikr_15">Al-humd-Lilah</string>
+    <string name="english_Zikr_16">Takbeer</string>
+    <string name="english_Zikr_17">Allah</string>
+    <string name="english_Zikr_18">Astaghfar</string>
+    <string name="english_Zikr_19">Ayat-ul-Kursi</string>
+    <string name="english_Zikr_20">Durood</string>
+    <string name="english_Zikr_21">Hasbi-Allah</string>
+    <string name="english_Zikr_22">Tamjeed</string>
+    <string name="english_Zikr_23">Tauheed</string>
+    <string name="english_Zikr_24">Kalma-Tayyiba</string>
+    <string name="english_Zikr_25">Lahawla-Wala</string>
+    <string name="english_Zikr_26">La-ilaha-il-Allah</string>
+    <string name="english_Zikr_27">SubhanAllah-Wabihamdi</string>
+    <string name="english_Zikr_28">Tasbeeh</string>
+    <string name="english_Zikr_29">Al-humd-Lilah</string>
+    <string name="english_Zikr_30">Takbeer</string>
+    <string name="english_Zikr_31">Allah</string>
+    <string name="english_Zikr_32">Astaghfar</string>
+    <string name="english_Zikr_33">Ayat-ul-Kursi</string>
+    <string name="english_Zikr_34">Durood</string>
+    <string name="english_Zikr_35">Hasbi-Allah</string>
+    <string name="english_Zikr_36">Tamjeed</string>
+    <string name="english_Zikr_37">Tauheed</string>
+    <string name="english_Zikr_38">Kalma-Tayyiba</string>
+    <string name="english_Zikr_39">Lahawla-Wala</string>
+    <string name="english_Zikr_40">La-ilaha-il-Allah</string>
+    <string name="english_Zikr_41">SubhanAllah-Wabihamdi</string>
+    <string name="english_Zikr_42">Tasbeeh</string>
+    <string name="english_Zikr_43">Al-humd-Lilah</string>
+    <string name="english_Zikr_44">Takbeer</string>
+    <string name="english_Zikr_45">Allah</string>
+    <string name="english_Zikr_46">Astaghfar</string>
+    <string name="english_Zikr_47">Ayat-ul-Kursi</string>
+    <string name="english_Zikr_48">Durood</string>
+    <string name="english_Zikr_49">Hasbi-Allah</string>
+    <string name="english_Zikr_50">Tamjeed</string>
+    <string name="english_Zikr_51">Tauheed</string>
+    <string name="english_Zikr_52">Kalma-Tayyiba</string>
+    <string name="english_Zikr_53">Lahawla-Wala</string>
+    <string name="english_Zikr_54">La-ilaha-il-Allah</string>
+    <string name="english_Zikr_55">SubhanAllah-Wabihamdi</string>
+    <string name="english_Zikr_56">Tasbeeh</string>
+    <string name="english_Zikr_57">Al-humd-Lilah</string>
+    <string name="english_Zikr_58">Takbeer</string>
+    <string name="english_Zikr_59">Allah</string>
+    <string name="english_Zikr_60">Astaghfar</string>
+    <string name="english_Zikr_61">Ayat-ul-Kursi</string>
+    <string name="english_Zikr_62">Durood</string>
+    <string name="english_Zikr_63">Hasbi-Allah</string>
+    <string name="english_Zikr_64">Tamjeed</string>
+    <string name="english_Zikr_65">Tauheed</string>
+    <string name="english_Zikr_66">Kalma-Tayyiba</string>
+    <string name="english_Zikr_67">Lahawla-Wala</string>
+    <string name="english_Zikr_68">La-ilaha-il-Allah</string>
+    <string name="english_Zikr_69">SubhanAllah-Wabihamdi</string>
+    <string name="english_Zikr_70">Tasbeeh</string>
+    <string name="english_Zikr_71">Al-humd-Lilah</string>
+    <string name="english_Zikr_72">Takbeer</string>
+    <string name="english_Zikr_73">Allah</string>
+    <string name="english_Zikr_74">Astaghfar</string>
+    <string name="english_Zikr_75">Ayat-ul-Kursi</string>
+    <string name="english_Zikr_76">Durood</string>
+    <string name="english_Zikr_78">Hasbi-Allah</string>
+    <string name="english_Zikr_79">Tamjeed</string>
+    <string name="english_Zikr_80">Tauheed</string>
+    <string name="english_Zikr_81">Kalma-Tayyiba</string>
+    <string name="english_Zikr_82">Lahawla-Wala</string>
+    <string name="english_Zikr_83">La-ilaha-il-Allah</string>
+    <string name="english_Zikr_84">SubhanAllah-Wabihamdi</string>
+    <string name="english_Zikr_85">Tasbeeh</string>
+    <string name="english_Zikr_86">Al-humd-Lilah</string>
+    <string name="english_Zikr_87">Takbeer</string>
+    <string name="english_Zikr_88">Allah</string>
+    <string name="english_Zikr_89">Astaghfar</string>
+    <string name="english_Zikr_90">Ayat-ul-Kursi</string>
+    <string name="english_Zikr_91">Durood</string>
+    <string name="english_Zikr_92">Hasbi-Allah</string>
+    <string name="english_Zikr_93">Tamjeed</string>
+    <string name="english_Zikr_94">Tauheed</string>
+    <string name="english_Zikr_95">Kalma-Tayyiba</string>
+    <string name="english_Zikr_96">Lahawla-Wala</string>
+    <string name="english_Zikr_97">La-ilaha-il-Allah</string>
+    <string name="english_Zikr_98">SubhanAllah-Wabihamdi</string>
+    <string name="english_Zikr_99">Tasbeeh</string>
+    <string name="english_Zikr_100">Al-humd-Lilah</string>
+    <string name="english_Zikr_101">Takbeer</string>
+    <string name="english_Zikr_102">Allah</string>
+    <string name="english_Zikr_103">Astaghfar</string>
+    <string name="english_Zikr_104">Ayat-ul-Kursi</string>
+    <string name="english_Zikr_105">Durood</string>
+    <string name="english_Zikr_106">Hasbi-Allah</string>
+    <string name="english_Zikr_107">Tamjeed</string>
+    <string name="english_Zikr_108">Tauheed</string>
+    <string name="english_Zikr_109">Kalma-Tayyiba</string>
+    <string name="english_Zikr_110">Lahawla-Wala</string>
+    <string name="english_Zikr_111">La-ilaha-il-Allah</string>
+    <string name="english_Zikr_112">SubhanAllah-Wabihamdi</string>
+    <string name="english_Zikr_113">Tasbeeh</string>
+
+    <string name="arabic_Zikr_1">الْحَمْدُللّه</string>
+    <string name="arabic_Zikr_2">اللَّهُ أَكْبَر</string>
+    <string name="arabic_Zikr_14">اللّه</string>
+    <string name="arabic_Zikr_4">أَسْتَغْفِرُ اللَّهَ الَّذِي لَا إِلَهَ إِلَّا هُوَ الْحَيَّ الْقَيُّومَ وَأَتُوبِ إِلَيْه</string>
+    <string name="arabic_Zikr_5">اللَّهُ لاَ إِلَـهَ إِلاَّ هُوَ الْحَيُّ الْقَيُّومُ لاَ تَأْخُذُهُ سِنَةٌ وَلاَ نَوْمٌ لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ مَن ذَا الَّذِي يَشْفَعُ عِندَهُ إِلاَّ بِإِذْنِهِ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلاَ يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلاَّ بِمَا شَاءَ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ وَلاَ يَئُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيم</string>
+    <string name="arabic_Zikr_6">اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍكَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ.إِنَّكَ حَمِيدٌ مَجِيدٌاللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ، وَعَلَى آلِ مُحَمَّدٍكَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ.إِنَّكَ حَمِيدٌ مَجِيد</string>
+    <string name="arabic_Zikr_7">حَسْبِیَ اللہُ وَنِعْمَ الوَکِیْل وَنِعْمَ المَوْلیٰ وَنِعْمَ النَصِیْر</string>
+    <string name="arabic_Zikr_8">سُبْحَان اللهِ وَ الْحَمْدُ لِلّهِ وَ لآ اِلهَ اِلّا اللّهُ وَ اللّهُ اَكْبَرُ وَلا حَوْلَ وَلاَ قُوَّة ِ الَّا بِاللّهِ الْعَلِىّ الْعَظِيْم</string>
+    <string name="arabic_Zikr_9">لَآ اِلٰهَ اِلَّا اللهُ وَحْدَهٗ لَا شَرِيْكَ لَهٗ لَهُ الْمُلْكُ وَ لَهُ الْحَمْدُ يُحْىٖ وَ يُمِيْتُ وَ هُوَحَیٌّ لَّا يَمُوْتُ اَبَدًا اَبَدًاؕ ذُو الْجَلَالِ وَالْاِكْرَامِؕ بِيَدِهِ الْخَيْرُؕ وَهُوَ عَلٰى كُلِّ شیْ ٍٔ قَدِیْرٌؕ</string>
+    <string name="arabic_Zikr_10">لَآ اِلٰهَ اِلَّا اللّٰهُ مُحَمَّدٌ رَّسُوْلُ اللّٰهِؕ</string>
+    <string name="arabic_Zikr_11">لا حَوْلَ وَ لا قُوَّةَ اِلَّا بِاللّه</string>
+    <string name="arabic_Zikr_12">لَآ اِلٰهَ اِلَّا اللّٰهُ </string>
+    <string name="arabic_Zikr_13">سُبْحَانَ اللّهِ وَ بِحَمْدِه ِسُبْحَانَ اللہِ العَظِیْم</string>
+    <string name="arabic_Zikr_3">سُبْحَانَ اللّه</string>
+
+
+    <string name="zikr_counter_key_1">Al-humd-Lilah</string>
+    <string name="zikr_counter_key_2">Takbeer</string>
+    <string name="zikr_counter_key_3">Allah</string>
+    <string name="zikr_counter_key_4">Astaghfar</string>
+    <string name="zikr_counter_key_5">Ayat-ul-Kursi</string>
+    <string name="zikr_counter_key_6">Durood</string>
+    <string name="zikr_counter_key_7">Hasbi-Allah</string>
+    <string name="zikr_counter_key_8">Tamjeed</string>
+    <string name="zikr_counter_key_9">Tauheed</string>
+    <string name="zikr_counter_key_10">Kalma-Tayyiba</string>
+    <string name="zikr_counter_key_11">Lahawla-Wala</string>
+    <string name="zikr_counter_key_12">La-ilaha-il-Allah</string>
+    <string name="zikr_counter_key_13">SubhanAllah-Wabihamdi</string>
+    <string name="zikr_counter_key_14">Tasbeeh</string>
+
+
+    <string name="zikr_type_key_1">alhumd</string>
+    <string name="zikr_type_key_2">takbeer</string>
+    <string name="zikr_type_key_3">allah</string>
+    <string name="zikr_type_key_4">astaghfar</string>
+    <string name="zikr_type_key_5">ayat</string>
+    <string name="zikr_type_key_6">durood</string>
+    <string name="zikr_type_key_7">hasbi</string>
+    <string name="zikr_type_key_8">tamjeed</string>
+    <string name="zikr_type_key_9">tauheed</string>
+    <string name="zikr_type_key_10">kalma</string>
+    <string name="zikr_type_key_11">laHawla</string>
+    <string name="zikr_type_key_12">laIlaha</string>
+    <string name="zikr_type_key_13">wabihamdi</string>
+    <string name="zikr_type_key_14">subhan</string>
+
+
+    <string name="zikr_x_values_1">alhumdxValues</string>
+    <string name="zikr_x_values_2">takbeerxValues</string>
+    <string name="zikr_x_values_3">allahxValues</string>
+    <string name="zikr_x_values_4">astaghfarxValues</string>
+    <string name="zikr_x_values_5">ayatxValues</string>
+    <string name="zikr_x_values_6">duroodxValues</string>
+    <string name="zikr_x_values_7">hasbixValues</string>
+    <string name="zikr_x_values_8">tamjeedxValues</string>
+    <string name="zikr_x_values_9">tauheedxValues</string>
+    <string name="zikr_x_values_10">kalmaxValues</string>
+    <string name="zikr_x_values_11">laHawlaxValues</string>
+    <string name="zikr_x_values_12">laIlahaxValues</string>
+    <string name="zikr_x_values_13">wabihamdixValues</string>
+    <string name="zikr_x_values_14">subhanxValues</string>
+
+
+    <string name="zikr_y_values_1">alhumdyValues</string>
+    <string name="zikr_y_values_2">takbeeryValues</string>
+    <string name="zikr_y_values_3">allahyValues</string>
+    <string name="zikr_y_values_4">astaghfaryValues</string>
+    <string name="zikr_y_values_5">ayatyValues</string>
+    <string name="zikr_y_values_6">duroodyValues</string>
+    <string name="zikr_y_values_7">hasbiyValues</string>
+    <string name="zikr_y_values_8">tamjeedyValues</string>
+    <string name="zikr_y_values_9">tauheedyValues</string>
+    <string name="zikr_y_values_10">kalmayValues</string>
+    <string name="zikr_y_values_11">laHawlayValues</string>
+    <string name="zikr_y_values_12">laIlahayValues</string>
+    <string name="zikr_y_values_13">wabihamdiyValues</string>
+    <string name="zikr_y_values_14">subhanyValues</string>
+
+
+    <string name="week_day_1">Mon</string>
+    <string name="week_day_2">Tue</string>
+    <string name="week_day_3">Wed</string>
+    <string name="week_day_4">Thu</string>
+    <string name="week_day_5">Fri</string>
+    <string name="week_day_6">Sat</string>
+    <string name="week_day_7">Sun</string>
+
+
+    <!--beginiing and weekly text for ststs button -->
+
+    <string name="begin"><b>beginning</b></string>
+    <string name="weekly"><b>weekly</b></string>
+
+    <string name="About_us">Muhammad Ali Apps \n <b>email:</b> alihamuh@gmail.com \n <b>phone:</b> +92-311-075-8144</string>
+    <string name="about"><b>About us:</b></string>
+
+
+    <string name="tasbeeh_theme_changer">Change Theme</string>
+    <string-array name="theme_names">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Brown</item>
+        <item>Grey</item>
+        <item>Galaxy</item>
+    </string-array>
+    <string-array name="theme_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <!--Real Ads -->
+    <!--string name="counter_inter_ad">ca-app-pub-4487355027048563/5477401935</string>
+    <string name="main_inter_ad">ca-app-pub-4487355027048563/5178019030</string>
+    <string name="main_banner_ad">ca-app-pub-4487355027048563/8261701158</string>
+    <string name="counter_banner_ad">ca-app-pub-4487355027048563/3480349136</string>
+    <string name="ad_app_id">ca-app-pub-4487355027048563~2003615932</string-->
+
+    <!-- fake ads-->
+    <string name="counter_inter_ad">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="main_inter_ad">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="main_banner_ad">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="counter_banner_ad">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ad_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="title_activity_test">testActivity</string>
+    <string name="title_activity_test2">testActivity2</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_base">baseActivity</string>
+
+</resources>

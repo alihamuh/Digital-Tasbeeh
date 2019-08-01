@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:style="http://schemas.android.com/apk/res-auto"
+    xmlns:app="urn:oasis:names:tc:xliff:document:1.2"
+    android:id="@+id/setting_activity">
+
+    <PreferenceCategory
+        android:title="">
+
+        <com.alihamuh.ali.tasbeeh.Settings.ResetTasbeehDialogPreference
+            android:key="reset_all"
+            android:dialogIcon="@android:drawable/ic_dialog_alert"
+            android:title="Reset All Zikrs"
+            android:summary="Reset all zikrs done uptill now."
+            android:dialogMessage="Are you sure you wish to reset your Zikr progress? This action cannot be undone!"
+            android:positiveButtonText="Clear Zikrs"
+            android:negativeButtonText="Cancel" />
+
+
+
+
+        <ListPreference
+            android:key="theme_list"
+            android:title="@string/tasbeeh_theme_changer"
+            android:defaultValue="0"
+            android:entries="@array/theme_names"
+            android:entryValues="@array/theme_values"
+            android:negativeButtonText="@null"
+            android:positiveButtonText="@null"/>
+
+        <com.alihamuh.ali.tasbeeh.Settings.TimePreference
+            android:key="zikr_alaram"
+            android:title="Zikr Time"
+            android:summary="Set time for Zikr"
+            android:defaultValue="90"
+            style="@style/AppPreference.DialogPreference"/>
+
+
+    </PreferenceCategory>
+
+
+
+</PreferenceScreen>
